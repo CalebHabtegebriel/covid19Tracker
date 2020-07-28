@@ -1,5 +1,5 @@
 {
-  "homepage": "https://CalebHabtegebriel.github.io/CovidTracker",
+  "homepage": "http://CalebHabtegebriel.github.io/covid19Tracker/",
   "name": "covid-19-tracker",
   "version": "0.1.0",
   "private": true,
@@ -35,6 +35,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.1.0",
+    "pages": "0.0.16"
   }
 }
